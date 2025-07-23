@@ -1,4 +1,4 @@
-# Complete Step-by-Step Training Guide - No Mistakes
+# Complete Step-by-Step Training Guide 
 
 ## 🚀 Overview
 We'll train a 7B model for web search in these phases:
