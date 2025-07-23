@@ -1,5 +1,5 @@
 # Complete Step-by-Step Training Guide 
-
+# This guide was buitl for a hpz640 dual nvidia 3060 12GB
 ## 🚀 Overview
 We'll train a 7B model for web search in these phases:
 1. **Setup** (30 minutes)
